@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran Ali</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="imran262" /> </p>
+<p align="left"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="imran262" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran262" alt="imran262" /></a> </p>
 
